@@ -5,7 +5,7 @@ import {
   sub,
   mult,
   div,
-} from '../src/main';
+} from '../src/calc';
 
 describe('Calc', () => {
   context('Smoke tests', () => {
